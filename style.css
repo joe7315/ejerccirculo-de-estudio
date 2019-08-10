@@ -1,0 +1,26 @@
+.header {
+    background-color: black;
+    display: flex;
+}
+.logo {
+    background-color: black;
+    display: flex;
+    justify-content: left;
+    height: 40px;
+}
+/* .menu {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    color: white;
+    list-style: none;
+} */
+.link {
+    display: flex;
+    align-items: rigth;
+    color: white;
+    list-style: none;
+}
+h1 [
+    style: f
+]
